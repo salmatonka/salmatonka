@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif))](https://salmatonka.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://salmatonka.io)
 <h1 align="center">Hi 👋, I'm Umme Salma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="codin" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
