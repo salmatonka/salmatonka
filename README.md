@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://salmatonka.io)
 <h1 align="center">Hi 👋, I'm Salma Akter </h1>
-<h3 align="center"> Salma Akter | MERN stack Developer | Full stack Developer </h3>
+<h3 align="center"> MERN stack Developer | Full stack Developer </h3>
 <img align="right" alt="codin" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 - 🔭 I’m currently working on [Typescript Project ](https://regal-dusk-aee0fb.netlify.app)
