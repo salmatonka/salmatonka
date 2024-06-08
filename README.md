@@ -3,7 +3,7 @@
 <h3 align="center"> Salma Akter | MERN stack Developer | Full stack Developer </h3>
 <img align="right" alt="codin" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
-- 🔭 I’m currently working on [ST Booking.com](https://regal-dusk-aee0fb.netlify.app)
+- 🔭 I’m currently working on [Typescript Project ](https://regal-dusk-aee0fb.netlify.app)
 
 - 🌱 I’m currently learning **Next js, typescript, Redux and Metarial ui.**
 
