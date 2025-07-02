@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co/hxhtPTGM/Copy-of-Black-Technology-Linked-In-Banner.png)
 
-# Software Engineer
+# Mern Stack Developer
 
 ## About Me
 heY , i am Salma Akter, a passionate Software Engineer based on 
