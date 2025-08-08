@@ -1,10 +1,23 @@
-![Banner](https://i.ibb.co/hxhtPTGM/Copy-of-Black-Technology-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/gM1zXf8m/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 # Full Stack Developer
 
 ## About Me
-heY , i am Salma Akter, a passionate Software Engineer based on 
-JavaScript/Typescript. I am an expert on both frontend and backend with 2 years of hands-on experience in a Full-Stack role, designing high-performance and production-ready web applications.I spend my whole day, practically every day, experimenting with HTML, CSS,JavaScript etc.I’m curious, and I enjoy work.
+### Hi there 👋 I’m Salma Akter
+
+🎯 Full-Stack Developer | JavaScript & TypeScript Enthusiast
+
+I’m a passionate developer with 2+ years of experience building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I specialize in crafting clean UIs, optimizing performance, and writing maintainable code on both the frontend and backend.
+
+💡 Always exploring new technologies. I enjoy solving real-world problems and building full-featured applications with modern web tools.
+
+🔧 **Tech Stack**:
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js, MongoDB
+- Tools: GitHub, Firebase, Netlify, Vercel
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/salmaakter708/) or check out my projects below!
+
 
 
 ## 🌐 Socials:
