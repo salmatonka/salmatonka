@@ -1,10 +1,9 @@
 ![Banner](https://i.ibb.co.com/gM1zXf8m/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-# Full Stack Developer
+# 🎯 Full-Stack Developer | JavaScript & TypeScript Enthusiast
 
 ### Hi there 👋 I’m Salma Akter
 
-🎯 Full-Stack Developer | JavaScript & TypeScript Enthusiast
 
 I’m a passionate developer with 2+ years of experience building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I specialize in crafting clean UIs, optimizing performance, and writing maintainable code on both the frontend and backend.
 
