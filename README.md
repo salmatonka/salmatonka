@@ -2,7 +2,6 @@
 
 # Full Stack Developer
 
-## About Me
 ### Hi there 👋 I’m Salma Akter
 
 🎯 Full-Stack Developer | JavaScript & TypeScript Enthusiast
