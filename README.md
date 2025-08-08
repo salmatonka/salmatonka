@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co.com/gM1zXf8m/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-# Full-Stack Developer | JavaScript & TypeScript Enthusiast
+# Full-Stack Developer | JavaScript & TypeScript 
 
 ### Hi there I’m Salma Akter
 
